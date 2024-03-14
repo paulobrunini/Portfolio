@@ -1,1 +1,3 @@
-# Portfolio
+# Previsao de Criptomoedas
+
+Este projeto de análise de criptomoedas explorou técnicas de ciência de dados para prever os preços futuros do Bitcoin, Cardano, Dogecoin e Ethereum. Com foco na modelagem preditiva, destacou-se a importância das médias móveis na identificação de tendências e a necessidade de adaptação a um mercado altamente volátil. Desafios incluíram a otimização de modelos e a interpretação de padrões em um ambiente dinâmico. Esta experiência consolidou habilidades em análise financeira e modelagem preditiva, fornecendo insights valiosos sobre o comportamento do mercado de criptomoedas.
